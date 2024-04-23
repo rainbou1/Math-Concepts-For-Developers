@@ -1,0 +1,6 @@
+Latex tutorials:
+https://www.stat.pitt.edu/stoffer/freetex/latex%20basics.pdf
+https://math.hws.edu/gassert/LaTeX_Guide_Title.pdf
+
+Tyrsene na latex symbols
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
