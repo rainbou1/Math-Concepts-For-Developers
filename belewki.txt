@@ -1,0 +1,20 @@
+https://stackoverflow.com/questions/51036132/running-jupyterlab-as-a-desktop-application-in-windows-10
+
+Kak da se otvori jupyter lab prez browser:
+https://jupyter.org/try-jupyter/lab
+
+
+
+Google colab da se izpolzva
+https://colab.research.google.com/
+
+geogebra za chertaene na funkcii
+geogebra.org
+
+Kak da si otvorim fajl:
+https://jupyterlab.readthedocs.io/en/1.2.x/user/files.html
+
+Obsidian:
+obsidian example vault
+
+The Extension manager icon is the last one on the left of the jupyter lab.
