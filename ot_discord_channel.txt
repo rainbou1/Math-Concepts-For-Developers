@@ -3,3 +3,6 @@ https://github.com/GalkaKG/Math-Concepts-for-Developers/blob/main/jupyterlab_sho
 
 2.Enabling autocompleting
 https://saturncloud.io/blog/autocomplete-jupyter-notebook/#:~:text=Create%20a%20new%20Jupyter%20Notebook%20or%20open%20an%20existing%20one.&text=Press%20Shift%20%2B%20Tab%20to%20trigger,enabled%20autocomplete%20in%20Jupyter%20Notebook.
+
+3.For regular expressions
+https://regex101.com/

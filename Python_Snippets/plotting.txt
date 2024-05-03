@@ -1,0 +1,12 @@
+test_bits = [10, 20, 25, 30, 32, 33, 35, 38, 40]
+factorization_times, multiplication_times = make_experiment(test_bits, 5)
+
+# plotting
+plt.plot(test_bits, factorization_times, label="Factorization Time")
+plt.plot(test_bits, multiplication_times, label="Multiplication Time")
+plt.xlabel("Number of Bits")
+plt.ylabel("Time (seconds)")
+plt.title("Factorization vs Multiplication Time")
+plt.legend()
+plt.grid(True)
+plt.show()
