@@ -1,0 +1,101 @@
+Дефиниция на поле:
+https://en.wikipedia.org/wiki/Field_(mathematics)
+Зад поле стои нещо с определени характеристики
+
+Classic definition
+Formally, a field is a set F together with two binary operations on F called addition and multiplication.[1] A binary operation on F is a mapping F × F → F, that is, a correspondence that associates with each ordered pair of elements of F a uniquely determined element of F.[2][3] The result of the addition of a and b is called the sum of a and b, and is denoted a + b. Similarly, the result of the multiplication of a and b is called the product of a and b, and is denoted ab or a ⋅ b. These operations are required to satisfy the following properties, referred to as field axioms (in these axioms, a, b, and c are arbitrary elements of the field F):
+
+Associativity of addition and multiplication: a + (b + c) = (a + b) + c, and a ⋅ (b ⋅ c) = (a ⋅ b) ⋅ c.
+Commutativity of addition and multiplication: a + b = b + a, and a ⋅ b = b ⋅ a.
+Additive and multiplicative identity: there exist two distinct elements 0 and 1 in F such that a + 0 = a and a ⋅ 1 = a.
+Additive inverses: for every a in F, there exists an element in F, denoted −a, called the additive inverse of a, such that a + (−a) = 0.
+Multiplicative inverses: for every a ≠ 0 in F, there exists an element in F, denoted by a−1 or 1/a, called the multiplicative inverse of a, such that a ⋅ a−1 = 1.
+Distributivity of multiplication over addition: a ⋅ (b + c) = (a ⋅ b) + (a ⋅ c).
+An equivalent, and more succinct, definition is: a field has two commutative operations, called addition and multiplication; it is a group under addition with 0 as the additive identity; the nonzero elements are a group under multiplication with 1 as the multiplicative identity; and multiplication distributes over addition.
+
+Even more succinctly: a field is a commutative ring where 0 ≠ 1 and all nonzero elements are invertible under multiplication.
+
+Distributivity - умножението може да бъде разпределено спрямо събиране
+
+Някаква колекция от елементи, ако може да отговаря на всички тези свойства, можем да наречем поле.
+Защо е важно - заради принципа на абстракция
+Каква абстракция ни е полезна - полетата са много полезни заради полетата от числа - тъй като това е минималното определение, което върши работа за всичките операции - събиране и умножение и обратните операции...и свойството дистрибутивност на умножението. 
+Което означава, че всяко нещо, което научим за числата, можем да прилагаме и в други ситуации.
+
+Целите числа не са поле.
+
+Колкото повече ограничение даваме за нещо, толкова повече знаем за него.
+
+Равнина е двумерна линейна структура.
+Какво означава нещо да е линейно - за него означава да са изпълени принципите, че: 
+f(a) + f(b) = f(a + b) за всяко a, b - принципа на суперпозицията
+lambda * f(a) = f(lambda * a)
+
+където a, b са елементи от множество, lambda e скалар
+Това нещо в две измерения представлява права линия през точката 0.
+За линейната алгебра това е афинна функция.
+
+3x1 + 2
+3x1 + 7x2 + 2
+4x1 - 5x2 + 0.5x3 + 3
+
+Всичките функции са линейни спрямо всяка една входна променливи.
+Всичките тези структури се наричат равнини.
+В едномерно пространство - едномерна равнина - права линия
+Двумерна равнина - равнина.
+За повече измерения изпозваме термина хиперравнина. - 326-мерна хиперравнина.
+Математическата дефиниция е линейна комбинация от базисните вектори
+
+https://paperswithcode.com/
+Какво е логаритмична ос? От ChatGPT:
+Логаритмична ос на графика е ос, която е скалата, основата на която е логаритъмна функция. Обикновено се използва логаритъм с основа 10 (логаритъм от 10), наричан десетичен логаритъм, или с основа е (натурален логаритъм).
+
+
+
+От задачите:
+=============================
+Производна на функция в точка е свързана с допирателната на функцията в тази точка.
+Но не би трябвало да е допирателната.
+Производната на функция в една точка е число.
+Производната на функция изобщо е друга функция.
+
+Същото важи и за неопределен интеграл - който е функция евентуално на същата променлива.
+Имаме и определен интеграл който е константа спрямо променливата която му подаваме.
+
+Тоест в една точка е число, като го направим безброй много пъти получаваме функция.
+
+Можем да сметнем производната във всяка една точка.
+
+Неперово число е "е"
+
+Производни на степенни функции
+
+Problem 4:
+Производните се смятат много трудно числено. Защото производна означава малка разлика в изхода разделена на крайна разлика на входа. Обаче заради крайния брой битове, в който събираме числата, имаме ограничение. Например 10 на -30-та ще бъде запазена като 0.
+Правило на трапеците
+
+
+За проверка на резултати можем да ползваме WolframAlpha
+
+Ако търсим производна на функция, значи търсим скоростта и.
+Най-популярното диференциално е wave equation. Описанието на вълните представляват диференциални уравнения.
+
+
+
+Приложения на мат. анализ:
+1.Граници 
+Можем да кажем колко бързо расте една функция
+При компютрите се интересуваме колко бързо работи една функция.
+С O (big notation) означаваме клас сложност.
+O(logN) алгоритъм - например в търсене в сортиран списък
+Това е приложение на математическия анализ
+
+Mean Squared Error (MSE) - функция, в която участват предсказаните резултати и реалните резултати.
+www.mathwords.com
+Когато променяме координатите, променяме абсолютно всичко
+Ред на тейлър - радиус на сходимост
+
+
+"Производните, the Derivatives, получават по-голямо внимание в Machine Learning. Диференцирането (намиране производната на функция) означава разлика. Разлика означава малка грешка, а малка грешка може да ни каже „сбъркал съм с малко“.
+Как мога да направя това, което съм в момента, малко по-добро? Ако направя стъпка в посока обратна на моята най-голяма грешка, би трябвало да направя стъпка в посока най-правилното решение, което виждам в момента.
+Така работи Machine Learning, локална оптимизация. Ако се намирам някъде в една loss function, в ML algorithm… мога да разбера коя е най-голямата грешка, която мога да направя – къде производната е най-голяма, накъде сочи градиента – и да направя точно обратното нещо, за една стъпка. Ако направя същия алгоритъм много на брой пъти, получавам Gradient Descent. И в някакъв момент, когато разбера, че съм в минимум – няма място за още по-малка грешка – значи съм оптимизирал моя ML algorithm. Това е идеята зад Gradient Descent." ЙД
