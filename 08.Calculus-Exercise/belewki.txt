@@ -143,8 +143,8 @@ numpy.vectorize - The numpy.vectorize function is a tool in NumPy that allows yo
 
 граница 0,(9) = 1 (0, 9 в период)
 
-Problem 1:
-
+Problem 4:
+numpy записва числата в ограничен брой битове. Затова в по-голям диапазон се получи проблем.
 
 
 

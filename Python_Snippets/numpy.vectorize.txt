@@ -1,0 +1,6 @@
+The numpy.vectorize function is a tool in NumPy that allows you to "vectorize" a Python function, meaning it can operate element-wise on arrays rather than just scalar inputs.
+
+Example:
+    x = np.linspace(min_x, max_x, 1000)
+    function_np = np.vectorize(function)
+    y = function_np(x)
