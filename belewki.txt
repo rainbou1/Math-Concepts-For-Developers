@@ -8,7 +8,7 @@ https://jupyter.org/try-jupyter/lab
 Google colab da se izpolzva
 https://colab.research.google.com/
 
-geogebra za chertaene na funkcii
+geogebra за чертаене на функции.
 geogebra.org
 
 Kak da si otvorim fajl:
@@ -19,4 +19,5 @@ obsidian example vault
 
 The Extension manager icon is the last one on the left of the jupyter lab.
 
+Онлайн учебник за вероятности.
 https://www.probabilitycourse.com/preface.php
