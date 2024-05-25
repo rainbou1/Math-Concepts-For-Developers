@@ -18,3 +18,5 @@ Obsidian:
 obsidian example vault
 
 The Extension manager icon is the last one on the left of the jupyter lab.
+
+https://www.probabilitycourse.com/preface.php
