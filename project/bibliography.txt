@@ -1,0 +1,20 @@
+[1] https://en.wikipedia.org/wiki/Error_correction_code
+[2] https://people.eecs.berkeley.edu/~venkatg/teaching/ECC-fall22/scribes/lecture01.pdf
+[3] https://www.qrcode-tiger.com/qr-code-error-correction
+[4] https://en.wikipedia.org/wiki/Hamming_distance
+[5] https://mtc-aj.com/article.1104.htm
+[6] https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fee.eng.usm.my%2Feeacad%2Fnazriee%2Fnota08%2FEEE436%2520Lecture%2520Slide%25203.ppt&wdOrigin=BROWSELINK
+[7] https://stackoverflow.com/questions/74993583/correcting-a-message-using-error-correcting-codes-in-python
+Shannon teorem is mentioned.
+[8] https://www.quora.com/Error-Correcting-Codes-What-is-a-syndrome
+[9] https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/34b7d78e0b90235095ef81542f6aa2dc_MIT6_02F12_chap06.pdf
+[10] - theorem of Shannon - explanation https://en.wikipedia.org/wiki/Noisy-channel_coding_theorem
+73
+!!!  syndrome e opisan na str.73 na knihata
+/Foundations%20of%20Coding_%20Theory%20and%20Applications%20of%20Error-Correcting%20Codes%20with%20an%20Introduction%20to%20Cryptography%20and%20Information%20Theory%20(%20PDFDrive%20).pdf
+
+[11] https://math.mit.edu/~goemans/18310S15/Hamming-code-notes.pdf
+[12] https://www.studysmarter.co.uk/explanations/math/discrete-mathematics/error-correcting-codes/
+[13] https://en.wikipedia.org/wiki/Error_correction_code
+[14] https://en.wikipedia.org/wiki/Convolutional_code
+https://acsweb.ucsd.edu/~afazelic/ece154c/ErrorCorrection-JackWolf.pdf
