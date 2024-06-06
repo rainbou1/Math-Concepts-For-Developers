@@ -18,3 +18,11 @@ Shannon teorem is mentioned.
 [13] https://en.wikipedia.org/wiki/Error_correction_code
 [14] https://en.wikipedia.org/wiki/Convolutional_code
 https://acsweb.ucsd.edu/~afazelic/ece154c/ErrorCorrection-JackWolf.pdf
+
+https://en.wikipedia.org/wiki/Decoding_methods#Syndrome_decoding
+https://math.stackexchange.com/questions/1387481/when-decoding-a-block-code-how-do-you-know-which-error-a-syndrome-corresponds-t
+https://www.naukri.com/code360/library/examples-for-hamming-code
+
+A binary linear code is called a Hamming code -  ot knigata 71.
+Страница 74 -  матрица 4х15.
+Някакъв код https://github.com/christiansiegel/coding-theory-algorithms/blob/master/LinearBlockCode.py
