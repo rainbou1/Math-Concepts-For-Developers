@@ -17,6 +17,9 @@ Shannon teorem is mentioned.
 [12] https://www.studysmarter.co.uk/explanations/math/discrete-mathematics/error-correcting-codes/
 [13] https://en.wikipedia.org/wiki/Error_correction_code
 [14] https://en.wikipedia.org/wiki/Convolutional_code
+[15] https://pi.math.cornell.edu/~mec/2008-2009/Bertiger/Codes/Lecture_5.html
+[16] https://personalpages.manchester.ac.uk/staff/yuri.bazlov/code/notes/ch7.pdf
+
 https://acsweb.ucsd.edu/~afazelic/ece154c/ErrorCorrection-JackWolf.pdf
 
 https://en.wikipedia.org/wiki/Decoding_methods#Syndrome_decoding
