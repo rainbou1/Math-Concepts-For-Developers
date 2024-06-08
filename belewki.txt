@@ -21,3 +21,6 @@ The Extension manager icon is the last one on the left of the jupyter lab.
 
 Онлайн учебник за вероятности.
 https://www.probabilitycourse.com/preface.php
+
+Някои разяснения по Calculus:
+https://tutorial.math.lamar.edu/classes/calciii/changeofvariables.aspx
