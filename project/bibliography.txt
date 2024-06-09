@@ -19,6 +19,7 @@ Shannon teorem is mentioned.
 [14] https://en.wikipedia.org/wiki/Convolutional_code
 [15] https://pi.math.cornell.edu/~mec/2008-2009/Bertiger/Codes/Lecture_5.html
 [16] https://personalpages.manchester.ac.uk/staff/yuri.bazlov/code/notes/ch7.pdf
+[17] https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction
 
 https://acsweb.ucsd.edu/~afazelic/ece154c/ErrorCorrection-JackWolf.pdf
 
@@ -29,3 +30,14 @@ https://www.naukri.com/code360/library/examples-for-hamming-code
 A binary linear code is called a Hamming code -  ot knigata 71.
 Страница 74 -  матрица 4х15.
 Някакъв код https://github.com/christiansiegel/coding-theory-algorithms/blob/master/LinearBlockCode.py
+
+
+Да се прегледа и провери!!! https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fee.eng.usm.my%2Feeacad%2Fnazriee%2Fnota08%2FEEE436%2520Lecture%2520Slide%25203.ppt&wdOrigin=BROWSELINK
+
+https://math.stackexchange.com/questions/1329733/application-of-reed-solomon-codes
+https://www.youtube.com/watch?v=dpxD8gwgbOc
+https://www.cs.cmu.edu/~guyb/realworld/reedsolomon/reed_solomon_codes.html
+https://www.theseus.fi/bitstream/handle/10024/32913/Reed-Solomon%20Encoding%20and%20Decoding.pdf
+https://www.researchgate.net/profile/Dr-Uday-Singh/publication/305641094_Error_Detection_and_Correction_Using_Reed_Solomon_Codes/links/5aec83e7aca2727bc00483d1/Error-Detection-and-Correction-Using-Reed-Solomon-Codes.pdf
+
+Reed–Solomon Codes and Their Applications
