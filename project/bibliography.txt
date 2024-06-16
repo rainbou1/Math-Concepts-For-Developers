@@ -21,6 +21,7 @@ Shannon teorem is mentioned.
 [16] https://personalpages.manchester.ac.uk/staff/yuri.bazlov/code/notes/ch7.pdf
 [17] https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction
 [18] (knigata)Foundations%20of%20Coding_%20Theory%20and%20Applications - 
+[19] https://en.wikipedia.org/wiki/Hamming_code - 
 
 https://acsweb.ucsd.edu/~afazelic/ece154c/ErrorCorrection-JackWolf.pdf
 
