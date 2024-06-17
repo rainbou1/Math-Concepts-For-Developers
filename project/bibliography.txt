@@ -46,3 +46,7 @@ Reed–Solomon Codes and Their Applications
 
 The generator matrix is used for converting messages into codewords, and the parity-check matrix is used to decode codewords to find whether or not there are errors in the codeword.
 https://www.sciencedirect.com/topics/engineering/generator-matrix
+
+
+https://github.com/mwickert/scikit-dsp-comm/tree/master/src/sk_dsp_comm
+!!!http://www.math.bas.bg/vt/mch/WebSchoolApril/Kodirane/7.pdf
