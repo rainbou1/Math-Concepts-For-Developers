@@ -15,12 +15,12 @@ Shannon teorem is mentioned.
 
 [11] https://math.mit.edu/~goemans/18310S15/Hamming-code-notes.pdf
 [12] https://www.studysmarter.co.uk/explanations/math/discrete-mathematics/error-correcting-codes/
-[13] https://en.wikipedia.org/wiki/Error_correction_code
-[14] https://en.wikipedia.org/wiki/Convolutional_code
+[13] [1] https://en.wikipedia.org/wiki/Error_correction_code
+[14] [2] https://en.wikipedia.org/wiki/Convolutional_code
 [15] https://pi.math.cornell.edu/~mec/2008-2009/Bertiger/Codes/Lecture_5.html
 [16] https://personalpages.manchester.ac.uk/staff/yuri.bazlov/code/notes/ch7.pdf
 [17] https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction
-[18] (knigata)Foundations%20of%20Coding_%20Theory%20and%20Applications - 
+[18] [3](knigata)Foundations%20of%20Coding_%20Theory%20and%20Applications - 
 [19] https://en.wikipedia.org/wiki/Hamming_code - 
 
 https://acsweb.ucsd.edu/~afazelic/ece154c/ErrorCorrection-JackWolf.pdf
@@ -50,3 +50,5 @@ https://www.sciencedirect.com/topics/engineering/generator-matrix
 
 https://github.com/mwickert/scikit-dsp-comm/tree/master/src/sk_dsp_comm
 !!!http://www.math.bas.bg/vt/mch/WebSchoolApril/Kodirane/7.pdf
+
+https://piazza.com/class_profile/get_resource/isgy6spmwwm3ba/ittr8jmgdfi6gk
